@@ -1,13 +1,6 @@
 
-###############################
-Text Classification Algorithms
-###############################
 
-  
-.. figure:: docs/pic/WordArt.png 
- 
- 
- Referenced paper : `Text Classification Algorithms: A Survey <https://arxiv.org/abs/1904.08067>`__
+Text Classification Algorithms
 
 
 ##################
@@ -21,7 +14,6 @@ Table of Contents
 Introduction
 ============
 
-.. figure:: docs/pic/OverviewTextClassification.png 
 
     
     
